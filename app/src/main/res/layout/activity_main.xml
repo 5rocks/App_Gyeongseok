@@ -22,12 +22,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="30sp"
+            android:textStyle="bold"
             android:text="안녕하세요2."/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="12sp"
+            android:textStyle="bold"
             android:text="안녕하세요3."/>
 
     </LinearLayout>
